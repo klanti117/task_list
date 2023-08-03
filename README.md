@@ -1,7 +1,9 @@
 This is the day7 project of the 30 days of React Challenge
 
 Main repo [here](https://github.com/klanti117/30_days_react_challenge)
-
+Will be utilizing knowledge gathered from these secions below
+ - conditional rendering
+ - folder structure 
 Demo: 
 # Getting Started with Create React App
 
