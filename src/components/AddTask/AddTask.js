@@ -4,8 +4,7 @@ const AddTask = () => {
   return (
     <form className='Add-Task'>
         <label>
-            Add Tasks: 
-            <input type="text" name="name" />
+            <input type="text" name="name" placeholder="Add your tasks here... "/>
         </label>
         <input type="submit" value="Submit" />
     </form>
